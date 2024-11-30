@@ -15,6 +15,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  shared_preferences: ^2.3.3
+  utilility:
+    git:
+      url: https://github.com/ashu5600/utilility.git
+      ref: main
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
